@@ -24,7 +24,7 @@
   (line (name segm8:Line) (start 110 18.5) (end 2 18.5))
   (tbtext "Sheet: %P" (name text12:Text) (pos 109 17))
   (tbtext "GMVT GmbH - GMVT electronics%Y" (name text13:Text) (pos 109 20) (font bold))
-  (tbtext "Drwaing by %C0" (name text14:Text) (pos 109 23))
+  (tbtext "Drawing by %C0" (name text14:Text) (pos 109 23))
   (tbtext "Reviewed by %C1" (name text15:Text) (pos 109 26))
   (tbtext "Approved by %C2" (name text16:Text) (pos 109 29))
   (tbtext "Issued by %C3" (name text17:Text) (pos 109 32))
